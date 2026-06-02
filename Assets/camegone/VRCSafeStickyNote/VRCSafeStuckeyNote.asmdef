@@ -1,0 +1,22 @@
+{
+    "name": "VRCSafeStuckeyNote",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3456780c4fb2d324ab9c633d6f1b0ddb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.vrchat.base",
+            "expression": "3.0.0",
+            "define": "VRCSDK3"
+        }
+    ],
+    "noEngineReferences": false
+}
